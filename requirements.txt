@@ -1,0 +1,9 @@
+# Core dependencies
+python-dateutil>=2.8.2
+python-dotenv>=0.19.2
+
+# API integration
+openai>=1.0.0
+
+# Database and storage
+SQLAlchemy>=1.4.31
