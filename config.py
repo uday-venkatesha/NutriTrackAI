@@ -5,7 +5,7 @@
 # load_dotenv()
 
 # # MongoDB Configuration
-# MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://udayvenkatesh2015:Uday@0601@uday1.n8mb8lm.mongodb.net/?retryWrites=true&w=majority&appName=Uday1")
+# MONGO_URI = os.getenv("MONGO_URI", "")
 # DATABASE_NAME = "nutrition_tracker"
 # FOOD_COLLECTION = "food_entries"
 # USERS_COLLECTION = "user_metrics"
