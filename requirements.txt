@@ -8,5 +8,4 @@ openai>=1.0.0
 # Database and storage
 SQLAlchemy>=1.4.31
 plotly
-MongoDBClient
 pymongo
